@@ -13,4 +13,6 @@ Se desarrolló con:
 - Sockets TCP para comunicación cliente-servidor.
 - SQLite para almacenamiento.
 - JFreeChart para gráficos.
-
+<p align="center">
+  <img src= "https://github.com/ADALBERTORUIZCHAVEZ/SistemaDeMonitoreo/blob/main/Imagenes/SistemadeMonitoreo.PNG" alt="logo"/>
+</p>
