@@ -1,6 +1,8 @@
 # SistemaDeMonitoreo
 Sistema de monitoreo de datos
 
+Desarrollado por:
+- Adalberto Ruiz Chavez
 Este proyecto consiste en el desarrollo de un sistema de monitoreo en tiempo real y consulta histórica de datos generados por sensores.
 El sistema permite:
 - Capturar datos simulados desde un Arduino o generador.
