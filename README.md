@@ -8,14 +8,14 @@ Este proyecto consiste en el desarrollo de un sistema de monitoreo de datos gene
 
 El sistema cuenta con una interfaz gráfica desarrollada en Java Swing y permite visualizar los valores actuales de los sensores, así como consultar información histórica mediante rangos de fecha y hora.
 
-Características principales
-Captura de datos simulados de sensores.
-Comunicación entre cliente y servidor mediante sockets TCP.
-Almacenamiento de información utilizando SQLite.
-Visualización de datos en tiempo real.
-Consulta de datos históricos.
-Generación de gráficas mediante JFreeChart.
-Consulta de información utilizando rangos de fecha y hora.
+Características principales:
+- Captura de datos simulados de sensores.
+- Comunicación entre cliente y servidor mediante sockets TCP.
+- Almacenamiento de información utilizando SQLite.
+- Visualización de datos en tiempo real.
+- Consulta de datos históricos.
+- Generación de gráficas mediante JFreeChart.
+- Consulta de información utilizando rangos de fecha y hora.
 
 Se desarrolló con:
 - Java (Swing) para la interfaz.
