@@ -4,13 +4,18 @@ Sistema de monitoreo de datos
 Desarrollado por:
 - Adalberto Ruiz Chavez
 
-Este proyecto consiste en el desarrollo de un sistema de monitoreo en tiempo real y consulta histórica de datos generados por sensores.
-El sistema permite:
-- Capturar datos simulados desde un Arduino o generador.
-- Enviar los datos a un servidor central.
-- Guardar las mediciones en una base de datos SQLite.
-- Visualizar los valores actuales del sensor.
-- Consultar y graficar datos históricos usando rangos de fecha/hora.
+Este proyecto consiste en el desarrollo de un sistema de monitoreo de datos generados por sensores. El sistema permite capturar datos simulados, enviarlos desde un cliente hacia un servidor mediante comunicación TCP y almacenarlos en una base de datos.
+
+El sistema cuenta con una interfaz gráfica desarrollada en Java Swing y permite visualizar los valores actuales de los sensores, así como consultar información histórica mediante rangos de fecha y hora.
+
+Características principales
+Captura de datos simulados de sensores.
+Comunicación entre cliente y servidor mediante sockets TCP.
+Almacenamiento de información utilizando SQLite.
+Visualización de datos en tiempo real.
+Consulta de datos históricos.
+Generación de gráficas mediante JFreeChart.
+Consulta de información utilizando rangos de fecha y hora.
 
 Se desarrolló con:
 - Java (Swing) para la interfaz.
